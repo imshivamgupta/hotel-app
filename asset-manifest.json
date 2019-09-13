@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hotel-app/static/css/main.aa20cf0a.chunk.css",
-    "main.js": "/hotel-app/static/js/main.f9e09852.chunk.js",
-    "main.js.map": "/hotel-app/static/js/main.f9e09852.chunk.js.map",
+    "main.js": "/hotel-app/static/js/main.659c3ff6.chunk.js",
+    "main.js.map": "/hotel-app/static/js/main.659c3ff6.chunk.js.map",
     "runtime~main.js": "/hotel-app/static/js/runtime~main.092ab416.js",
     "runtime~main.js.map": "/hotel-app/static/js/runtime~main.092ab416.js.map",
     "static/js/2.5ef2b3bc.chunk.js": "/hotel-app/static/js/2.5ef2b3bc.chunk.js",
     "static/js/2.5ef2b3bc.chunk.js.map": "/hotel-app/static/js/2.5ef2b3bc.chunk.js.map",
     "index.html": "/hotel-app/index.html",
-    "precache-manifest.b74d14732b047cbd266e235d0ea5d651.js": "/hotel-app/precache-manifest.b74d14732b047cbd266e235d0ea5d651.js",
+    "precache-manifest.c860fcbfab186ac1b3abf332706e8cc5.js": "/hotel-app/precache-manifest.c860fcbfab186ac1b3abf332706e8cc5.js",
     "service-worker.js": "/hotel-app/service-worker.js",
     "static/css/main.aa20cf0a.chunk.css.map": "/hotel-app/static/css/main.aa20cf0a.chunk.css.map",
     "static/media/App.css": "/hotel-app/static/media/room-2.052c7681.jpeg",
